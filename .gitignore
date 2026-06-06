@@ -1,0 +1,10 @@
+data/raw/
+data/processed/
+results/*.pkl
+results/*.png
+results/*.csv
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.ipynb_checkpoints/
