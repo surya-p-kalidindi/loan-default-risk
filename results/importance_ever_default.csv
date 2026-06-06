@@ -1,0 +1,21 @@
+feature,mean_abs_shap
+FICO Score,0.32288924
+DTI Ratio (%),0.12883087
+Original LTV (%),0.109903604
+Original CLTV (%),0.09367371
+HPI Growth at Orig,0.04967519
+Unemployment at Orig,0.04567591
+Interest Rate (%),0.017076122
+Property State,0.013618729
+Origination Year,0.010336007
+Mortgage Rate at Orig,0.009286035
+First-Time Homebuyer,0.008010309
+# Units,0.0077963914
+MI Flag,0.0058547175
+Loan Term (yrs),0.005497971
+Property Type,0.004395123
+# Borrowers,0.0041977293
+Loan Purpose,0.0040901126
+CLTV - LTV Gap,0.0038920466
+Occupancy Type,0.0029203165
+Product Type (ARM/FRM),0.0023353044
