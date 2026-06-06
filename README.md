@@ -160,7 +160,7 @@ This project is for research and educational purposes only. The synthetic data, 
 
 ## References
 
-1. Fannie Mae Single Family Loan Performance Data: https://capitalmarkets.fanniemae.com
+1. Synthetic Loan Data
 2. Lundberg & Lee (2017). SHAP. NeurIPS.
 3. Platt (1999). Probabilistic outputs for SVMs.
 
